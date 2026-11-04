@@ -65,6 +65,11 @@ Successfully completed all stages of the hands-on exercise, including:
 
 [View Mona's official completion confirmation](https://github.com/imanr236/skills-review-pull-requests/issues/1#issuecomment-6637038152)
 
+**GitHub Skills – Hello GitHub Actions**  
+Successfully completed the hands-on exercise by creating a workflow, configuring its event trigger, job, and steps, testing it with a pull request, and merging the workflow into the default branch.
+
+[View Mona's official completion confirmation](https://github.com/imanr236/skills-hello-github-actions/issues/1#issuecomment-6637395050)
+
 ## ✦ What I'm Working On
 
 - Building original frontend applications
