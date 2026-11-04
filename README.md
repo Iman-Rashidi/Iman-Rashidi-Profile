@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Iman 👋
 
-<!--
-**imanr236/Imanr236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm exploring software development by building small projects, experimenting with code, and learning how different tools and technologies work.
 
-Here are some ideas to get you started:
+## 🔍 What you'll find here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Small coding experiments and practice projects
+- Web development explorations
+- Blockchain-related demos and command-line experiments
+- Notes and projects from my learning journey
+
+## 📌 Explore my repositories
+
+A few places to start:
+
+- [CodeVault](https://github.com/imanr236/CodeVault) — an experiment around storing and sharing code
+- [codespaces-react](https://github.com/imanr236/codespaces-react) — a React/Codespaces starter project
+- [blockchain-demo](https://github.com/imanr236/blockchain-demo) — a blockchain demonstration project
+
+These repositories include experiments and learning work; not every repository is an original project.
+
+## 🌱 Current focus
+
+Learning by building, improving project documentation, and getting better at writing clear, maintainable code.
+
+## 🤝 Connect
+
+- GitHub: [@imanr236](https://github.com/imanr236)
+
+---
+
+*Thanks for stopping by!*
