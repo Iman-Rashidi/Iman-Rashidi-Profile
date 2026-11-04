@@ -51,6 +51,20 @@ Successfully completed the hands-on GitHub Skills exercise, covering:
 
 [View the official completion confirmation](https://github.com/imanr236/skills-introduction-to-github-2/issues/1#issuecomment-6636053957)
 
+**GitHub Skills – Communicate using Markdown**  
+Successfully completed the exercise and practiced formatting clear, structured documentation with GitHub Flavored Markdown.
+
+[View the completed exercise](https://github.com/imanr236/skills-communicate-using-markdown)
+
+**GitHub Skills – Review Pull Requests**  
+Successfully completed all stages of the hands-on exercise, including:
+
+- Opening a pull request and assigning it for review
+- Leaving a review and suggesting changes
+- Applying suggested changes and merging a pull request
+
+[View Mona's official completion confirmation](https://github.com/imanr236/skills-review-pull-requests/issues/1#issuecomment-6637038152)
+
 ## ✦ What I'm Working On
 
 - Building original frontend applications
