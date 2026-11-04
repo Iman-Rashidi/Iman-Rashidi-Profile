@@ -1,32 +1,44 @@
 # Hi, I'm Iman 👋
 
-I'm exploring software development by building small projects, experimenting with code, and learning how different tools and technologies work.
+Frontend developer focused on building practical, maintainable web applications with React and TypeScript.
 
-## 🔍 What you'll find here
+I learn by shipping projects, improving them iteratively, and documenting the engineering decisions behind them.
 
-- Small coding experiments and practice projects
-- Web development explorations
-- Blockchain-related demos and command-line experiments
-- Notes and projects from my learning journey
+## Featured project
 
-## 📌 Explore my repositories
+### [CodeVault](https://github.com/imanr236/CodeVault)
+A local-first code snippet manager built with React, TypeScript, and Vite.
 
-A few places to start:
+- Create, edit, search, filter, sort, and organize snippets
+- Import and export JSON backups
+- Bulk selection and deletion
+- Responsive dark interface
+- Deployed with GitHub Actions and GitHub Pages
 
-- [CodeVault](https://github.com/imanr236/CodeVault) — an experiment around storing and sharing code
-- [codespaces-react](https://github.com/imanr236/codespaces-react) — a React/Codespaces starter project
-- [blockchain-demo](https://github.com/imanr236/blockchain-demo) — a blockchain demonstration project
+**[Live demo](https://imanr236.github.io/CodeVault/)**
 
-These repositories include experiments and learning work; not every repository is an original project.
+## Tech stack
 
-## 🌱 Current focus
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS
+- **Tooling:** Vite, npm, Git, GitHub Actions
+- **Practices I'm developing:** accessibility, automated testing, responsive UI, maintainable component design
 
-Learning by building, improving project documentation, and getting better at writing clear, maintainable code.
+## What I'm working on
 
-## 🤝 Connect
+- Building and polishing frontend projects
+- Improving code quality, accessibility, and test coverage
+- Learning through practical projects and open-source collaboration
 
-- GitHub: [@imanr236](https://github.com/imanr236)
+## Explore
+
+- [CodeVault](https://github.com/imanr236/CodeVault) · Featured frontend project
+- [codespaces-react](https://github.com/imanr236/codespaces-react) · React starter / Codespaces project
+- [blockchain-demo](https://github.com/imanr236/blockchain-demo) · Blockchain learning project
+
+## Connect
+
+- [GitHub](https://github.com/imanr236)
 
 ---
 
-*Thanks for stopping by!*
+*Focused on learning, building, and making each project better than the last.*
