@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Iman, Frontend Developer</title><desc id="desc">A dark indigo gradient banner with abstract code-inspired shapes.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101225"/><stop offset=".55" stop-color="#1c1b3c"/><stop offset="1" stop-color="#30265a"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b8b4ff"/><stop offset="1" stop-color="#8178ed"/></linearGradient><radialGradient id="glow"><stop stop-color="#9289ff" stop-opacity=".28"/><stop offset="1" stop-color="#9289ff" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/><circle cx="1010" cy="60" r="320" fill="url(#glow)"/><circle cx="1100" cy="330" r="220" fill="url(#glow)"/>
+<g fill="none" stroke="#aaa5ff" stroke-opacity=".22"><path d="M790 0v360M900 0v360M1010 0v360M1120 0v360" /><path d="M760 70h440M760 180h440M760 290h440"/></g>
+<g transform="translate(850 86)" fill="none" stroke="url(#accent)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><path d="m54 18-42 42 42 42M150 18l42 42-42 42M126 0 78 120"/></g>
+<rect x="72" y="65" width="5" height="230" rx="2.5" fill="url(#accent)"/>
+<text x="112" y="137" fill="#aaa5ff" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="5">HELLO, I'M</text>
+<text x="108" y="213" fill="#f5f4ff" font-family="Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">IMAN</text>
+<text x="112" y="260" fill="#cbc8ff" font-family="Arial,sans-serif" font-size="23" letter-spacing="1">FRONTEND DEVELOPER  ·  REACT  ·  TYPESCRIPT</text>
+<text x="112" y="310" fill="#a8a5c9" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">BUILDING CLEAN, ACCESSIBLE WEB EXPERIENCES</text>
+</svg>
