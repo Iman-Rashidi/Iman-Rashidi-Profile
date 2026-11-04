@@ -40,6 +40,17 @@ A local-first code snippet manager built with React, TypeScript, and Vite.
 ![Git](https://img.shields.io/badge/Git-24243f?style=flat-square&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24243f?style=flat-square&logo=githubactions)
 
+## ✦ Learning & Achievements
+
+**GitHub Skills – Introduction to GitHub**  
+Successfully completed the hands-on GitHub Skills exercise, covering:
+
+- Repository and branch management
+- Creating commits and pull requests
+- Reviewing and merging pull requests
+
+[View the official completion confirmation](https://github.com/imanr236/skills-introduction-to-github-2/issues/1#issuecomment-6636053957)
+
 ## ✦ What I'm Working On
 
 - Building original frontend applications
