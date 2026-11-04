@@ -13,27 +13,24 @@ A local-first code snippet manager built with React, TypeScript, and Vite.
 - Import and export JSON backups
 - Bulk selection and deletion
 - Responsive dark interface
-- Deployed with GitHub Actions and GitHub Pages
-
-**[Live demo](https://imanr236.github.io/CodeVault/)**
+- Automated production build and deployment with GitHub Actions
+- [Live demo](https://imanr236.github.io/CodeVault/)
 
 ## Tech stack
 
 - **Frontend:** React, TypeScript, JavaScript, HTML, CSS
 - **Tooling:** Vite, npm, Git, GitHub Actions
-- **Practices I'm developing:** accessibility, automated testing, responsive UI, maintainable component design
+- **Current engineering focus:** accessibility, automated testing, responsive UI, and maintainable component design
 
-## What I'm working on
+## Current focus
 
-- Building and polishing frontend projects
-- Improving code quality, accessibility, and test coverage
-- Learning through practical projects and open-source collaboration
+- Improving CodeVault with automated tests and accessibility checks
+- Building original frontend projects with clear documentation
+- Learning through practical work and meaningful open-source contributions
 
-## Explore
+## Featured work
 
-- [CodeVault](https://github.com/imanr236/CodeVault) · Featured frontend project
-- [codespaces-react](https://github.com/imanr236/codespaces-react) · React starter / Codespaces project
-- [blockchain-demo](https://github.com/imanr236/blockchain-demo) · Blockchain learning project
+At the moment, CodeVault is the project I can best present as a complete, documented frontend application. I'm keeping this profile focused rather than listing starter templates, experiments, or repositories that need more context.
 
 ## Connect
 
@@ -41,4 +38,4 @@ A local-first code snippet manager built with React, TypeScript, and Vite.
 
 ---
 
-*Focused on learning, building, and making each project better than the last.*
+*Build, measure, improve, repeat.*
