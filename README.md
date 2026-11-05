@@ -2,7 +2,9 @@
 
 <div align="center">
 
-### React · TypeScript · JavaScript
+### Frontend Developer · React · TypeScript · JavaScript
+
+Frontend developer and open-source contributor building responsive web applications, developer tools, and practical projects. Focused on React, TypeScript, JavaScript, accessibility, clean code, and maintainable UI.
 
 Building practical, responsive web applications with a focus on clean code, accessibility, and maintainable design.
 
