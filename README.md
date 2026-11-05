@@ -29,6 +29,15 @@ A local-first code snippet manager built with React, TypeScript, and Vite.
   <a href="https://imanr236.github.io/CodeVault/"><strong>↗ Explore the live demo</strong></a>
 </p>
 
+## ✦ Open-Source Contributions
+
+I enjoy contributing to open-source projects, improving documentation, and helping make developer tools easier to use.
+
+- **[Kunji](https://github.com/testwithsuraj/kunji)** – Working on verified model-pricing data and clearer cost information. [View my pull request](https://github.com/testwithsuraj/kunji/pull/64).
+- **[Releaseproof](https://github.com/ujjwalv01/releaseproof)** – Improving documentation for reproducing past checks with a pinned Docker image digest. [View the related issue](https://github.com/ujjwalv01/releaseproof/issues/123) · [View my implementation commit](https://github.com/imanr236/releaseproof/commit/d05a585c7bf7f1ed7bcbbdee252ac2675b288245).
+
+I welcome constructive feedback, useful issues, and collaboration on practical developer tools.
+
 ## ✦ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-24243f?style=flat-square&logo=javascript)
