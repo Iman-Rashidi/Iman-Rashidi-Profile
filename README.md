@@ -8,8 +8,8 @@ Frontend developer and open-source contributor building responsive web applicati
 
 Building practical, responsive web applications with a focus on clean code, accessibility, and maintainable design.
 
-[![GitHub](https://img.shields.io/badge/GitHub-imanr236-24243f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imanr236)
-[![CodeVault](https://img.shields.io/badge/Featured_Project-CodeVault-8178ed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imanr236/CodeVault)
+[![GitHub](https://img.shields.io/badge/GitHub-imanr236-24243f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iman-Rashidi)
+[![CodeVault](https://img.shields.io/badge/Featured_Project-CodeVault-8178ed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeVault-Community/CodeVault)
 
 </div>
 
@@ -17,7 +17,7 @@ Building practical, responsive web applications with a focus on clean code, acce
 
 ## ✦ Featured Project
 
-### [CodeVault](https://github.com/imanr236/CodeVault)
+### [CodeVault](https://github.com/CodeVault-Community/CodeVault)
 
 A local-first code snippet manager built with React, TypeScript, and Vite.
 
@@ -28,7 +28,7 @@ A local-first code snippet manager built with React, TypeScript, and Vite.
 - Automated tests and GitHub Actions deployment
 
 <p align="left">
-  <a href="https://imanr236.github.io/CodeVault/"><strong>↗ Explore the live demo</strong></a>
+  <a href="https://CodeVault-Community.github.io/CodeVault/"><strong>↗ Explore the live demo</strong></a>
 </p>
 
 ## ✦ Open-Source Contributions
@@ -36,7 +36,7 @@ A local-first code snippet manager built with React, TypeScript, and Vite.
 I enjoy contributing to open-source projects, improving documentation, and helping make developer tools easier to use.
 
 - **[Kunji](https://github.com/testwithsuraj/kunji)** – Working on verified model-pricing data and clearer cost information. [View my pull request](https://github.com/testwithsuraj/kunji/pull/64).
-- **[Releaseproof](https://github.com/ujjwalv01/releaseproof)** – Improving documentation for reproducing past checks with a pinned Docker image digest. [View the related issue](https://github.com/ujjwalv01/releaseproof/issues/123) · [View my implementation commit](https://github.com/imanr236/releaseproof/commit/d05a585c7bf7f1ed7bcbbdee252ac2675b288245).
+- **[Releaseproof](https://github.com/ujjwalv01/releaseproof)** – Improving documentation for reproducing past checks with a pinned Docker image digest. [View the related issue](https://github.com/ujjwalv01/releaseproof/issues/123) · [View my implementation commit](https://github.com/Iman-Rashidi/releaseproof/commit/d05a585c7bf7f1ed7bcbbdee252ac2675b288245).
 
 I welcome constructive feedback, useful issues, and collaboration on practical developer tools.
 
@@ -60,12 +60,12 @@ Successfully completed the hands-on GitHub Skills exercise, covering:
 - Creating commits and pull requests
 - Reviewing and merging pull requests
 
-[View the official completion confirmation](https://github.com/imanr236/skills-introduction-to-github-2/issues/1#issuecomment-6636053957)
+[View the official completion confirmation](https://github.com/Iman-Rashidi/skills-introduction-to-github-2/issues/1#issuecomment-6636053957)
 
 **GitHub Skills – Communicate using Markdown**  
 Successfully completed the exercise and practiced formatting clear, structured documentation with GitHub Flavored Markdown.
 
-[View the completed exercise](https://github.com/imanr236/skills-communicate-using-markdown)
+[View the completed exercise](https://github.com/Iman-Rashidi/skills-communicate-using-markdown)
 
 **GitHub Skills – Review Pull Requests**  
 Successfully completed all stages of the hands-on exercise, including:
@@ -74,12 +74,12 @@ Successfully completed all stages of the hands-on exercise, including:
 - Leaving a review and suggesting changes
 - Applying suggested changes and merging a pull request
 
-[View Mona's official completion confirmation](https://github.com/imanr236/skills-review-pull-requests/issues/1#issuecomment-6637038152)
+[View Mona's official completion confirmation](https://github.com/Iman-Rashidi/skills-review-pull-requests/issues/1#issuecomment-6637038152)
 
 **GitHub Skills – Hello GitHub Actions**  
 Successfully completed the hands-on exercise by creating a workflow, configuring its event trigger, job, and steps, testing it with a pull request, and merging the workflow into the default branch.
 
-[View Mona's official completion confirmation](https://github.com/imanr236/skills-hello-github-actions/issues/1#issuecomment-6637395050)
+[View Mona's official completion confirmation](https://github.com/Iman-Rashidi/skills-hello-github-actions/issues/1#issuecomment-6637395050)
 
 ## ✦ What I'm Working On
 
