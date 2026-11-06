@@ -77,9 +77,11 @@ Successfully completed all stages of the hands-on exercise, including:
 [View Mona's official completion confirmation](https://github.com/Iman-Rashidi/skills-review-pull-requests/issues/1#issuecomment-6637038152)
 
 **GitHub Skills – Hello GitHub Actions**  
+[![GitHub Skills: Hello GitHub Actions](https://img.shields.io/badge/GitHub%20Skills-Hello%20GitHub%20Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Iman-Rashidi/skills-hello-github-actions)
+
 Successfully completed the hands-on exercise by creating a workflow, configuring its event trigger, job, and steps, testing it with a pull request, and merging the workflow into the default branch.
 
-[View Mona's official completion confirmation](https://github.com/Iman-Rashidi/skills-hello-github-actions/issues/1#issuecomment-6637395050)
+[View the completed exercise](https://github.com/Iman-Rashidi/skills-hello-github-actions) · [View Mona's official completion confirmation](https://github.com/Iman-Rashidi/skills-hello-github-actions/issues/1#issuecomment-6637395050)
 
 ## ✦ What I'm Working On
 
