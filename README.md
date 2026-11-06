@@ -10,7 +10,6 @@ Building practical, responsive web applications with a focus on clean code, acce
 
 [![GitHub](https://img.shields.io/badge/GitHub-imanr236-24243f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iman-Rashidi)
 [![CodeVault](https://img.shields.io/badge/Featured_Project-CodeVault-8178ed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeVault-Community/CodeVault)
-
 </div>
 
 ---
